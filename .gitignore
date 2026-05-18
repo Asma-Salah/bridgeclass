@@ -1,6 +1,29 @@
-venv/ 
-__pycache__/ 
-*.pyc 
-.env 
-bridgeclass.db 
-backend/model/*.pkl 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Conda / virtual environments
+venv/
+.conda/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files (too large for Git)
+backend/model/*.pkl
+
+# Database
+*.db
+
+# Environment variables (never commit secrets)
+.env
+
+# Node (frontend)
+node_modules/
+dist/
+.next/
+
+# OS junk
+.DS_Store
+Thumbs.db
