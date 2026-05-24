@@ -191,3 +191,8 @@ external validity for a synthetic dataset.
 - plots/feature_importance.png
 
 
+✅ Day 1 — Environment setup
+✅ Day 1 — seed.py (synthetic dataset, 1000 students)
+✅ Day 1 — eda.ipynb (4 professional charts)
+✅ Day 2 — model.py (Random Forest, evaluation, 3 plots)
+✅ Day 2 — GitHub repository live
